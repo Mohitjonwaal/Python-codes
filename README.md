@@ -1,5 +1,9 @@
 # Python-codes
-```markdown
+
+git clone https://github.com/Mohitjonwaal/bmi-calculator.git
+cd bmi-calculator
+python bmi_calculator.py
+```python
 #BMI CALCULATOR
 
 weight= int(input("enter your weight"))
