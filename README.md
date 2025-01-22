@@ -1,5 +1,5 @@
 # Python-codes
-'''python
+```markdown
 #BMI CALCULATOR
 
 weight= int(input("enter your weight"))
@@ -21,5 +21,5 @@ if BMI >0:
         print("Morbidly obese")
     else:
         print("invalid number")
-
-    '''
+```
+    
